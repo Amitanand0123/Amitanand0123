@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/DhairyaMajmudar/DhairyaMajmudar/main/assets/banner.png)]
+![MasterHead](https://raw.githubusercontent.com/DhairyaMajmudar/DhairyaMajmudar/main/assets/banner.png)
 <h1 align="center">Hey there 👋, I'm Amit Anand</h1>
 <h2 align="center">MERN Developer || IIIT Kota'27 CSE</h2>
 <h4 align="left">I am a passionate full-stack developer specializing in MERN stack with a strong focus on building intuitive, interactive, and high-performance web experiences. With expertise in React, Tailwind CSS, and animation libraries like Framer Motion, I craft visually stunning user interfaces that enhance user engagement. Beyond frontend, I have a solid foundation in backend development and DevOps, working with Node.js, Express, MongoDB, Docker, Kubernetes, and CI/CD pipelines to create scalable and efficient applications. As a DSA enthusiast and competitive programmer, I enjoy solving complex problems and optimizing code for performance. Outside of coding, I am a fitness enthusiast and currently learning guitar.</h4>
