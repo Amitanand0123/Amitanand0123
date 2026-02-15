@@ -1,83 +1,111 @@
 <div align="center">
 
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=0d9488&height=200&section=header&text=Amit%20Anand&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20IIIT%20Kota%20'27&descSize=18&descAlignY=55&descColor=ccfbf1)
+  ![Header](https://capsule-render.vercel.app/api?type=venom&color=0d9488&height=250&section=header&text=Amit%20Anand&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20SDE%20Intern%20%7C%20IIIT%20Kota%20'27&descSize=18&descAlignY=55&descColor=ccfbf1)
 
-  [![Portfolio](https://img.shields.io/badge/Portfolio-0d9488?style=for-the-badge&logo=vercel&logoColor=white)](https://amitanand-portfolio.vercel.app/)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amit-anand-developer/)
-  [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amitanand.nd.in@gmail.com)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AmitanandNd)
+  <a href="https://amitanand-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/%E2%9C%A6_Portfolio-0d9488?style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/amit-anand-developer/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:amitanand.nd.in@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://x.com/AmitanandNd">
+    <img src="https://img.shields.io/badge/𝕏-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://www.leetcode.com/u/blue_berry0">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
 
 </div>
 
-## About Me
+<br/>
 
-```typescript
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0D9488&center=true&vCenter=true&random=false&width=520&lines=Full+Stack+Developer;Building+Scalable+Web+Applications;SDE+Intern+%40+HireMaze;DSA+%26+Competitive+Programming+Enthusiast" alt="Typing SVG" />
+</div>
+
+<br/>
+
+<!-- ABOUT -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<table align="center" border="0">
+  <tr>
+    <td width="55%">
+
+### &nbsp; `> whoami`
+
+```js
 const amit = {
-    pronouns: "he" | "him",
-    location: "IIIT Kota, Rajasthan",
-    currentRole: "SDE Intern @ HireMaze",
-    education: "B.Tech CSE @ IIIT Kota (2023-2027)",
-    interests: ["Full Stack Dev", "System Design", "Competitive Programming"],
-    funFact: "Fitness enthusiast currently learning guitar"
+  role: "Full Stack Developer",
+  company: "HireMaze (SDE Intern)",
+  education: "B.Tech CSE @ IIIT Kota '27",
+  stack: ["React", "Next.js", "Node.js",
+          "TypeScript", "AWS", "Docker"],
+  passions: ["System Design", "DSA", "Open Source"],
+  beyondCode: "Fitness + Guitar"
 };
 ```
 
-- Building 20+ REST APIs and automating recruiter workflows with **AWS Lambda** at HireMaze
-- Previously optimized page load speeds by **35%** and achieved **95+ Lighthouse scores** at LEJHRO Technology
-- DSA enthusiast and competitive programmer on Codeforces, CodeChef & LeetCode
+</td>
+    <td width="45%">
 
----
+### &nbsp; `> highlights`
 
-## Tech Stack
+&nbsp; **@HireMaze** — Built **20+ REST APIs** with Node.js,<br/>
+&nbsp; TypeScript & PostgreSQL. Automated workflows<br/>
+&nbsp; with **AWS Lambda**, reducing manual effort by **40%**.
 
-<table>
-  <tr>
-    <td align="center" width="140"><b>Languages</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=cpp,js,ts,python,java,go" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="140"><b>Frontend</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="140"><b>Backend</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,kafka" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="140"><b>Databases</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,supabase,firebase" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="140"><b>Cloud & DevOps</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,githubactions" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="140"><b>Tools</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=git,vscode,postman,figma,linux" />
-    </td>
+&nbsp; **@LEJHRO** — Optimized page loads by **35%**,<br/>
+&nbsp; achieved **95+ Lighthouse scores**. Built **10+**<br/>
+&nbsp; **RESTful APIs** with Next.js & Express.
+
+</td>
   </tr>
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## Featured Projects
+<br/>
+
+<!-- TECH STACK -->
+<div align="center">
+
+### `> tech_stack`
+
+<br/>
+
+| **Languages** | **Frontend** | **Backend** | **Databases** | **Cloud & DevOps** | **Tools** |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=cpp,js,ts&perline=3" /> | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&perline=3" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,graphql&perline=3" /> | <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis&perline=3" /> | <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes&perline=3" /> | <img src="https://skillicons.dev/icons?i=git,vscode,linux&perline=3" /> |
+| <img src="https://skillicons.dev/icons?i=python,java,go&perline=3" /> | <img src="https://skillicons.dev/icons?i=html,css&perline=3" /> | <img src="https://skillicons.dev/icons?i=kafka&perline=1" /> | <img src="https://skillicons.dev/icons?i=mysql,supabase,firebase&perline=3" /> | <img src="https://skillicons.dev/icons?i=gcp,githubactions&perline=2" /> | <img src="https://skillicons.dev/icons?i=postman,figma&perline=2" /> |
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<!-- PROJECTS -->
+<div align="center">
+
+### `> featured_projects`
+
+</div>
+
+<br/>
 
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Ledger</h3>
-      <p align="center">Full stack Job Tracking app with real-time updates</p>
+      <h3 align="center">
+        <img src="https://img.shields.io/badge/01-0d9488?style=flat-square" /> Ledger
+      </h3>
+      <p align="center"><i>Full stack Job Tracking app with real-time updates</i></p>
       <p align="center">
         <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -86,17 +114,15 @@ const amit = {
         <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio" />
       </p>
       <p align="center">
-        <a href="https://github.com/Amitanand0123/ledger">
-          <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github" />
-        </a>
-        <a href="https://ledger-app-gamma.vercel.app/">
-          <img src="https://img.shields.io/badge/Live-0d9488?style=for-the-badge&logo=vercel&logoColor=white" />
-        </a>
+        <a href="https://github.com/Amitanand0123/ledger"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github" /></a>&nbsp;
+        <a href="https://ledger-app-gamma.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-0d9488?style=for-the-badge&logo=vercel&logoColor=white" /></a>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">Ensemble</h3>
-      <p align="center">Collaboration tool with role-based auth & AI integration</p>
+      <h3 align="center">
+        <img src="https://img.shields.io/badge/02-0d9488?style=flat-square" /> Ensemble
+      </h3>
+      <p align="center"><i>Collaboration tool with role-based auth & AI integration</i></p>
       <p align="center">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
@@ -105,19 +131,17 @@ const amit = {
         <img src="https://img.shields.io/badge/Gemini-886FBF?style=flat-square&logo=googlegemini&logoColor=white" />
       </p>
       <p align="center">
-        <a href="https://github.com/Amitanand0123/Ensemble">
-          <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github" />
-        </a>
-        <a href="https://ensemble-one.vercel.app/">
-          <img src="https://img.shields.io/badge/Live-0d9488?style=for-the-badge&logo=vercel&logoColor=white" />
-        </a>
+        <a href="https://github.com/Amitanand0123/Ensemble"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github" /></a>&nbsp;
+        <a href="https://ensemble-one.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-0d9488?style=for-the-badge&logo=vercel&logoColor=white" /></a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">KrishiMitra</h3>
-      <p align="center">Digital platform connecting farmers with equipment & services</p>
+      <h3 align="center">
+        <img src="https://img.shields.io/badge/03-0d9488?style=flat-square" /> KrishiMitra
+      </h3>
+      <p align="center"><i>Digital platform connecting farmers with equipment & services</i></p>
       <p align="center">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
         <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
@@ -125,17 +149,15 @@ const amit = {
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
       </p>
       <p align="center">
-        <a href="https://github.com/Amitanand0123/Krishi_Mitra">
-          <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github" />
-        </a>
-        <a href="https://krishi-mitra-blond.vercel.app/">
-          <img src="https://img.shields.io/badge/Live-0d9488?style=for-the-badge&logo=vercel&logoColor=white" />
-        </a>
+        <a href="https://github.com/Amitanand0123/Krishi_Mitra"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github" /></a>&nbsp;
+        <a href="https://krishi-mitra-blond.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-0d9488?style=for-the-badge&logo=vercel&logoColor=white" /></a>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">Tomato.io</h3>
-      <p align="center">Full-stack food ordering platform with order tracking</p>
+      <h3 align="center">
+        <img src="https://img.shields.io/badge/04-0d9488?style=flat-square" /> Tomato.io
+      </h3>
+      <p align="center"><i>Full-stack food ordering platform with order tracking</i></p>
       <p align="center">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
         <img src="https://img.shields.io/badge/Express-000?style=flat-square&logo=express" />
@@ -143,56 +165,23 @@ const amit = {
         <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
       </p>
       <p align="center">
-        <a href="https://github.com/Amitanand0123/FoodOrder">
-          <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github" />
-        </a>
-        <a href="https://foodorder-frontend-fwbn.onrender.com/">
-          <img src="https://img.shields.io/badge/Live-0d9488?style=for-the-badge&logo=vercel&logoColor=white" />
-        </a>
+        <a href="https://github.com/Amitanand0123/FoodOrder"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github" /></a>&nbsp;
+        <a href="https://foodorder-frontend-fwbn.onrender.com/"><img src="https://img.shields.io/badge/Live_Demo-0d9488?style=for-the-badge&logo=vercel&logoColor=white" /></a>
       </p>
     </td>
   </tr>
 </table>
 
----
+<br/>
 
-## Competitive Programming
-
-<p align="center">
-  <a href="https://www.leetcode.com/u/blue_berry0">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://codeforces.com/profile/blue_berry0">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </a>
-  <a href="https://www.codechef.com/users/blue_berry0">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-  </a>
-</p>
-
----
-
-## GitHub Stats
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=amitanand0123&show_icons=true&theme=react&border_color=0d9488&bg_color=0d1117&title_color=0d9488&icon_color=0d9488" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=amitanand0123&theme=react&border=0d9488&background=0d1117&stroke=0d9488&ring=0d9488&fire=0d9488&currStreakLabel=0d9488" />
-</div>
-
-<div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitanand0123&layout=compact&theme=react&border_color=0d9488&bg_color=0d1117&title_color=0d9488" />
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amitanand0123&bg_color=0d1117&color=0d9488&line=0d9488&point=ffffff&area=true&area_color=0d9488&hide_border=true" width="95%"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%E2%80%99s%20bad.&author=Cory%20House" />
 </div>
 
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=amitanand0123&color=0d9488&style=for-the-badge&label=PROFILE+VIEWS" />
-</div>
+<br/>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0d9488&height=120&section=footer)
